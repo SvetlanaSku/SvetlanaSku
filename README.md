@@ -16,11 +16,11 @@
 * test design techniques
 * preparation of test cases and checklists
 * compiling bug reports
+* base SQL
 
  ### 🛠 Tools
 * JIRA
 * DevTools
-* SQL
 * Postman
 * Svagger
 * Git
