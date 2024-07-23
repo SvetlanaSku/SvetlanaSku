@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Sveta, Junior QA Engineer!
 
-<!--
-**SvetlanaSku/SvetlanaSku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I'm based in Russia, Tyumen
+<p> I like testing, communicate, spend time with family and cinema. </p>
 
-Here are some ideas to get you started:
+### Contacts
+<p>
+     <a href="https://t.me/Svetlanasku13">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Stack
+* functional testing
+* non-functional testing
+* test design techniques
+* preparation of test cases and checklists
+* compiling bug reports
+
+ ### 🛠 Tools
+* JIRA
+* DevTools
+* SQL
+* Postman
+* Svagger
+* Git
+* Jmeter
