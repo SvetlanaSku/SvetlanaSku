@@ -10,7 +10,7 @@
    </a>
 </p>
 
-### 🛠 Technical Skils
+### 🦾 Technical Skills
 * functional testing
 * non-functional testing
 * test design techniques
