@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sveta, Junior QA Engineer!
 
 🌍 I'm based in Russia, Tyumen
-🤩 I like testing, communicate, spend time with family and cinema
+<p> 🤩 I like testing, communicate, spend time with family and cinema <p>
 
 ### Contacts
 <p>
